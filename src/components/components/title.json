@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_components_titles",
+  "info": {
+    "displayName": "Title",
+    "icon": "calendar",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    }
+  }
+}

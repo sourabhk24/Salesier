@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_components_case_studies",
+  "info": {
+    "displayName": "Case_Study",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "review": {
+      "displayName": "review",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.review"
+    },
+    "review2": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.review"
+    },
+    "review3": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.review"
+    },
+    "review4": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.review"
+    },
+    "review5": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.review"
+    },
+    "review6": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.review"
+    }
+  }
+}

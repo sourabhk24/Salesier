@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_components_buttons",
+  "info": {
+    "displayName": "button",
+    "icon": "paperPlane",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "primary",
+        "secondary",
+        "outline",
+        "outline-icon"
+      ]
+    }
+  }
+}

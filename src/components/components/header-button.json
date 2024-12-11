@@ -1,0 +1,45 @@
+{
+  "collectionName": "components_components_header_buttons",
+  "info": {
+    "displayName": "Header button",
+    "icon": "cog"
+  },
+  "options": {},
+  "attributes": {
+    "Salesier": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.buttons"
+    },
+    "Why_Salesier": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.buttons"
+    },
+    "Solutions": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.buttons"
+    },
+    "Industry": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.buttons"
+    },
+    "Resources": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.buttons"
+    },
+    "Talk_to_sales": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.buttons"
+    },
+    "Get_a_demo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.buttons"
+    }
+  }
+}

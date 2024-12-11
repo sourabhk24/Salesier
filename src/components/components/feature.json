@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_components_features",
+  "info": {
+    "displayName": "feature_sec",
+    "icon": "arrowRight",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "first": {
+      "displayName": "article",
+      "type": "component",
+      "repeatable": false,
+      "component": "components.article"
+    },
+    "feature2": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.article"
+    },
+    "feature3": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.article"
+    }
+  }
+}

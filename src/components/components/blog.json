@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_components_blogs",
+  "info": {
+    "displayName": "Blog",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "image_video": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "key_points": {
+      "type": "richtext"
+    },
+    "random_text": {
+      "type": "string"
+    }
+  }
+}
